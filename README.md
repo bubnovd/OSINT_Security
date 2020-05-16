@@ -1,3 +1,4 @@
 - [Андрей Масалович: Конкурентная разведка для обеспечения экономической безопасности на предприятии](https://youtu.be/7zWWoWbQ70M)
 - [Пробив](kontragenta.net)
 - [Блог о разведывательных технологиях в бизнесе, и бизнесе, как разведке](http://hrazvedka.ru/)
+- [Боевой OSINT s01e01 - OSINT & RDP](https://telegra.ph/Boevoj-OSINT-s01e01---OSINT--RDP-04-18-2), [2 часть](https://telegra.ph/Boevoj-OSINT-s01e02---Deobfuskaciya-i-analiz-ishodnogo-koda--raskrytie-seti-rasprostraneniya-CP-04-22)
